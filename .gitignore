@@ -1,0 +1,4 @@
+*.sqlite3
+polls/**/*.pyc
+mysite/**/*.pyc
+.idea
